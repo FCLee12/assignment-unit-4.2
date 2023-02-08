@@ -8,6 +8,10 @@ header {
     text-align: center;
 }
 
+main {
+    margin-bottom: -3px;
+}
+
 .info {
     background-color: burlywood;
     color: darkolivegreen;
@@ -16,11 +20,9 @@ header {
 }
 
 img {
-    max-width: 100%;
     border-top: double 3px white;
     border-bottom: double 3px white;
-    margin-bottom: 0;
-    height: auto;
+    max-width: 100%;
     margin: 0;
 }
 
@@ -36,6 +38,6 @@ h2 {
 
 h3 {
     margin-top: 0;
-    border-top: double 3px white;
-    border-bottom: double 3px white;
+    padding-top: 5px;
+    padding-bottom: 8px;
 }
