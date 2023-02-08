@@ -1,0 +1,18 @@
+body {
+    background-color: lightsteelblue;
+}
+
+header {
+    background-color: aquamarine;
+}
+
+.info {
+    background-color: burlywood;
+    color: darkolivegreen;
+    text-shadow: 1px 1px 1px black;
+    text-align: center;
+}
+
+#image {
+    max-width: 100%;
+}
