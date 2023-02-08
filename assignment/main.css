@@ -1,9 +1,11 @@
 body {
     background-color: lightsteelblue;
+    margin: 0;
 }
 
 header {
     background-color: aquamarine;
+    text-align: center;
 }
 
 .info {
@@ -13,6 +15,27 @@ header {
     text-align: center;
 }
 
-#image {
+img {
     max-width: 100%;
+    border-top: double 3px white;
+    border-bottom: double 3px white;
+    margin-bottom: 0;
+    height: auto;
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h3 {
+    margin-top: 0;
+    border-top: double 3px white;
+    border-bottom: double 3px white;
 }
